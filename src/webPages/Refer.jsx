@@ -1,6 +1,8 @@
 const Refer = () => {
     return (
-        <div>Refer</div>
+        <div>
+            Changes in Refer Page
+        </div>
     )
 }
 
