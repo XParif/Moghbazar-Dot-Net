@@ -1,5 +1,5 @@
 const navigation = [
-    { title: "Home", path: "/moghbazar-dot-net" },
+    { title: "Home", path: "/" },
     { title: "Packages", path: "packages" },
     { title: "FTP Servers", path: "ftp" },
     { title: "Pay Bill", path: "paybill" },
