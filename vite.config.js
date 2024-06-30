@@ -10,5 +10,4 @@ export default defineConfig({
       "@components": "/src/components",
     }
   },
-  base: "/Moghbazar-Dot-Net/"
 })
