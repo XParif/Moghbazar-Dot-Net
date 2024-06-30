@@ -1,6 +1,7 @@
 import { FaFacebook, FaFacebookMessenger, FaMailBulk, FaMapMarkerAlt, FaPhoneAlt, FaYoutube } from "react-icons/fa"
 import { Link } from "react-router-dom"
 import services from "@/constant/services"
+import logoImage from '@public/logo.png'
 
 const Footer = () => {
     return (
@@ -8,7 +9,7 @@ const Footer = () => {
             <div className="md:flex justify-between gap-6">
                 <div className="flex-1">
                     <div className="max-w-xs">
-                        <img src="logo.png" className="w-32" />
+                        <img src={logoImage} className="w-32" />
                         <p className="mt-2 text-[15px] leading-relaxed">
                             We present a high performance internet for your home or your company. We have more than 17 years of experience and quality in internet.
                         </p>

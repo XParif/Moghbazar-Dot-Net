@@ -7,7 +7,6 @@ import {
     Homepage,
     PayBill,
     Packages,
-    Refer,
     NotFound
 } from "@/webPages";
 import Layout from "@/Layout";
@@ -18,7 +17,7 @@ const router = createBrowserRouter([
         element: <Layout />,
         children: [
             {
-                path: "",
+                path: "moghbazar-dot-net",
                 element: <Homepage />,
             },
             {
@@ -36,10 +35,6 @@ const router = createBrowserRouter([
             {
                 path: "contact",
                 element: <Contact />,
-            },
-            {
-                path: "refer",
-                element: <Refer />,
             },
             {
                 path: "*",

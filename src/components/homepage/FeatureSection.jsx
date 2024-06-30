@@ -5,7 +5,6 @@ const FeatureSection = () => {
                 <div className="lg:flex items-center gap-x-12 sm:px-4 md:px-0">
                     <div className="lg:block flex-1 sm:hidden">
                         <iframe width="650" height="350" src="https://www.youtube.com/embed/KLuTLF3x9sA?si=4mrw668ecZ3s4_UO" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerPolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                        {/* <img src="https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80" className="sm:rounded-lg md:max-w-xl" alt="" /> */}
                     </div>
                     <div className="space-y-7 mt-6 md:mt-0 px-4 sm:px-0 max-w-lg lg:max-w-xl">
                         <h3 className="font-semibold text-3xl text-gray-800 sm:text-4xl">
