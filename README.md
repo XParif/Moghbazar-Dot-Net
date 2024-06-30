@@ -12,7 +12,7 @@
   </p>
   <span>
     Live Link : 
-    <a href="#">Click Here</a>
+    <a href="https://moghbazardotnet.netlify.app/">Click Here</a>
   </span>
 </div>
 
