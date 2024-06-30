@@ -16,11 +16,11 @@
 
 ## About The Project
 
-![Screenshot 1](https://github.com/XParif/Moghbazar-Dot-Net/blob/main/screenshots/screenshot1.png)
+![Screenshot 1](screenshots/screenshot1.png)
 
-![Screenshot 2](https://github.com/XParif/Moghbazar-Dot-Net/blob/main/screenshots/screenshot2.png)
+![Screenshot 2](screenshots/screenshot2.png)
 
-![Screenshot 3](https://github.com/XParif/Moghbazar-Dot-Net/blob/main/screenshots/screenshot3.png)
+![Screenshot 3](screenshots/screenshot3.png)
 
 Welcome to the official website of Moghbazar dot net, your reliable local Internet Service Provider. Our website is designed to provide a seamless and user-friendly experience, ensuring that you can easily access all the information and services you need.
 
