@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import navigation from '../../constant/navigation'
 import { Link } from 'react-router-dom'
+import logoImage from '@public/logo.png'
 
 const NavBar = () => {
     const [state, setState] = useState(false)
@@ -11,7 +12,7 @@ const NavBar = () => {
                 <div className="flex justify-between">
                     <a href="javascript:void(0)">
                         <img
-                            src="logo.png"
+                            src={logoImage}
                             width={80}
                             height={40}
                             alt="Float UI logo"

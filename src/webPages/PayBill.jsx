@@ -1,5 +1,5 @@
-import PayCard from "../components/paybill/PayCard";
-import paymentOptions from "../constant/paymentOptions";
+import PayCard from "@components/paybill/PayCard";
+import paymentOptions from "@/constant/paymentOptions";
 
 const Paybill = () => {
     return (

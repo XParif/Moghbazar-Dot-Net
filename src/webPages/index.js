@@ -4,7 +4,6 @@ import Contact from "./Contact";
 import FTP from "./FTP";
 import PayBill from "./PayBill";
 import Packages from "./Packages";
-import Refer from "./Refer";
 
 export {
     Homepage,
@@ -13,5 +12,4 @@ export {
     FTP,
     PayBill,
     Packages,
-    Refer,
 };

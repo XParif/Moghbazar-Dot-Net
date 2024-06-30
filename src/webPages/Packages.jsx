@@ -1,8 +1,8 @@
 import { useState } from "react";
-import PricingCard from "../components/pricing/PricingCard";
-import PricingSection from "../components/pricing/PricingSection";
-import TabsComponent from "../components/pricing/TabsComponent";
-import { homePlans, gamingPlans, govtPlans } from "../constant/plans";
+import PricingCard from "@components/pricing/PricingCard";
+import PricingSection from "@components/pricing/PricingSection";
+import TabsComponent from "@components/pricing/TabsComponent";
+import { homePlans, gamingPlans, govtPlans } from "@/constant/plans";
 import * as Tabs from "@radix-ui/react-tabs";
 
 const Packages = () => {

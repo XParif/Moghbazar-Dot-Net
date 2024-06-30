@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom"
+import heroImage from '@public/hero.jpg'
 
 const HeroSection = () => {
     return (
@@ -23,7 +24,7 @@ const HeroSection = () => {
                 </div>
                 <div className="flex-1 mx-auto mt-5 lg:mt-0 rounded-tl-[400px] rounded-bl-[100px] sm:w-9/12 lg:w-auto overflow-hidden">
                     <img
-                        src="hero.jpg"
+                        src={heroImage}
                         alt=""
                         className="w-full"
                     />
